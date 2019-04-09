@@ -19,4 +19,5 @@ Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy
 
 **Bons estudos!**
 
-[yahoo]: http://www.yahoo.com/
+[Blog do Da2k](https://blog.da2k.com.br)
+
