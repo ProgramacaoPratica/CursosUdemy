@@ -14,7 +14,7 @@ Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy
 
 
 ```sh
-### Atualizado em 0909-2019
+### Atualizado em 09-04-2019
 ```
 
 **Bons estudos!**
