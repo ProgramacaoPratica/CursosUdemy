@@ -14,7 +14,17 @@ Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do gru
 
 
 ```sh
-### Atualizado em 09-04-2019
+## **Atualização realizada em 09-04-2019**
 ```
 
-**Bons estudos!**
+**Listas de Cursos em Português**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
+  
+**Listas de Cursos em Inglês**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Ingl%C3%AAs) 
+  
+**Listas de Cursos em Espanhol**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Espanhol) 
+
+  
+**Bons Estudos!**
