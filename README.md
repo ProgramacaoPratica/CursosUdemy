@@ -18,3 +18,5 @@ Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy
 ```
 
 **Bons estudos!**
+
+[yahoo]: http://www.yahoo.com/
