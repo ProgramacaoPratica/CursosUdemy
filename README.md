@@ -18,6 +18,3 @@ Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy
 ```
 
 **Bons estudos!**
-
-[Blog do Da2k](https://blog.da2k.com.br)
-
