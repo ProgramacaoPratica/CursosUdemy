@@ -1,0 +1,2 @@
+# CursosUdemy
+Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy e ainda indicar cursos com valores promocionais. As listas de cursos serão atualizadas frequentemente. Entre no grupo do Telegram para receber avisos sobre as atualizações das listas. No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy. Entre no grupo agora mesmo: http://bit.ly/2UvKbVX
