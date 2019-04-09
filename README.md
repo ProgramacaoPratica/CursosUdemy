@@ -1,12 +1,12 @@
-# Lista de Cursos Udemy
+# Lista de Cursos da Udemy
 
 
 ![Cursos Udemy](https://programacaopratica.com.br/wp-content/uploads/2019/04/imagem_git.jpg)
 
 
-Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy e ainda indicar cursos com valores promocionais. 
+Neste repositório serão postadas dicas de cursos que estão gratuitos na Udemy e ainda indicar cursos com valores promocionais. Serão postados cursos em Português, Inglês e Espanhol.
 
-  - As listas de cursos serão atualizadas frequentemente. 
+  - As listas de cursos serão atualizadas frequentemente.
 
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas. 
 
