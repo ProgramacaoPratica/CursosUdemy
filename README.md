@@ -18,17 +18,31 @@ Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do gru
 
 
 ```sh
-**Atualização realizada em 09-04-2019**
+**Atualização realizada em 22-04-2019**
 ```
 
-**Listas de Cursos em Português**
-  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
-  
-**Listas de Cursos em Inglês**
-  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Ingl%C3%AAs) 
+**Listas de Cursos em Alemão**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Alem%C3%A3o)
   
 **Listas de Cursos em Espanhol**
   - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Espanhol) 
 
+**Listas de Cursos em Francês**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Franc%C3%AAs) 
+  
+**Listas de Cursos em Holandês**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Holand%C3%AAs) 
+  
+**Listas de Cursos em Inglês**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Ingl%C3%AAs) 
+  
+**Listas de Cursos em Italiano**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Italiano) 
+  
+**Listas de Cursos em Polonês**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Polon%C3%AAs) 
+
+**Listas de Cursos em Português**
+  - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
   
 **Bons Estudos!**
