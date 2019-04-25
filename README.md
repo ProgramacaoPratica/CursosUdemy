@@ -45,6 +45,8 @@ Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do gru
 **Listas de Cursos em Português**
   - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
   
-  
-  
-**Bons Estudos!**
+Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
+No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
+Entre no grupo agora mesmo: [Grupo no Telegram](http://bit.ly/2UvKbVX)
+
+**Bons estudos!**
