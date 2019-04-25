@@ -18,7 +18,7 @@ Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do gru
 
 
 ```sh
-**Atualização realizada em 22-04-2019**
+**Atualização realizada em 25-04-2019**
 ```
 
 **Listas de Cursos em Alemão**
