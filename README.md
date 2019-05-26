@@ -1,4 +1,4 @@
-# Lista de Cursos da Udemy [Atualizado em 17-05-2019]
+# Lista de Cursos da Udemy [Atualizado em 25-05-2019]
 
 
 ![Cursos Udemy](https://programacaopratica.com.br/wp-content/uploads/2019/04/imagem_git.jpg)
@@ -18,7 +18,7 @@ Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do gru
 
 
 ```sh
-**Atualização realizada em 17-05-2019**
+**Atualização realizada em 25-05-2019**
 ```
 
 **Listas de Cursos em Alemão**
