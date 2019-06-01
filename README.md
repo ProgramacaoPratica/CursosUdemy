@@ -16,7 +16,7 @@ Entre no grupo agora mesmo: [Grupo no Telegram](http://bit.ly/2UvKbVX)
 
 Se você é instrutor na Udemy e quiser compartilhar cupons com o pessoal do grupo do Telegram, envie e-mail para contato@programacaopratica.com.br
 
-- **Listas de Cursos em Alemão** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Alem%C3%A3o)
+  - **Listas de Cursos em Alemão** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Alem%C3%A3o)
   
   - **Listas de Cursos em Espanhol** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Espanhol) 
 
