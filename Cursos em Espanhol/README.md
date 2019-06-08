@@ -15,6 +15,8 @@
   - **Lista criada em 25-05-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/7%20-%20Lista%20-%2025-05-2019.md)
   
   - **Lista criada em 01-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/8%20-%20Lista%20-%2001-06-2019.md)
+  
+  - **Lista criada em 08-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/9%20-%20Lista%20-%2008-06-2019.md)
 
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
