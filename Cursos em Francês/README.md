@@ -18,6 +18,8 @@
   
   - **Lista criada em 23-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/09%20-%20Lista%20-%2023-06-2019.md) 
   
+  - **Lista criada em 29-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/10%20-%20Lista%20-%2029-06-2019.md)
+  
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
 Entre no grupo agora mesmo: [Grupo no Telegram](http://bit.ly/2UvKbVX)
