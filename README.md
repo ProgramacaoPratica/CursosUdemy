@@ -1,4 +1,4 @@
-# Lista de Cursos da Udemy [Atualizado em 26-06-2019]
+# Lista de Cursos da Udemy [Atualizado em 29-06-2019]
 
 
 ![Cursos Udemy](https://programacaopratica.com.br/wp-content/uploads/2019/04/imagem_git.jpg)
