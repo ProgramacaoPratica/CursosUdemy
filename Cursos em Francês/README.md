@@ -2,10 +2,12 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 13-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/12%20-%20Lista%20-%2013-07-2019.md)
+  - **Lista criada em 20-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/13%20-%20Lista%20-%2020-07-2019.md)
   
 ## Outras Listas
-  
+
+  - **Lista criada em 13-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/12%20-%20Lista%20-%2013-07-2019.md)
+
   - **Lista criada em 07-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/11%20-%20Lista%20-%2007-07-2019.md)
   
   - **Lista criada em 29-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/10%20-%20Lista%20-%2029-06-2019.md)
