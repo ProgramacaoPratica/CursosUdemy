@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 20-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/14%20-%20Lista%20-%2020-07-2019.md)
+  - **Lista criada em 27-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/15%20-%20Lista%20-%2027-07-2019.md)
   
 ## Outras Listas
+
+  - **Lista criada em 20-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/14%20-%20Lista%20-%2020-07-2019.md)
 
   - **Lista criada em 13-07-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/13%20-%20Lista%20-%2013-07-2019.md)
   
