@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 24-08-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/20%20-%20Lista%20-%2024-08-2019.md)
+  - **Lista criada em 31-08-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/21%20-%20Lista%20-%2031-08-2019.md)
   
 ## Outras Listas
+
+  - **Lista criada em 24-08-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/20%20-%20Lista%20-%2024-08-2019.md)
 
   - **Lista criada em 17-08-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/19%20-%20Lista%20-%2017-08-2019.md)
 
