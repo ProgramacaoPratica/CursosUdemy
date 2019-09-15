@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 29-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/02%20-%20Lista%20-%2029-06-2019.md)
+  - **Lista criada em 14-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/03%20-%20Lista%20-%2014-09-2019.md)
 
 ## Outras Listas
+
+  - **Lista criada em 29-06-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/02%20-%20Lista%20-%2029-06-2019.md)
 
   - **Lista criada em 22-04-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/01%20-%20Lista%20-%2022-04-2019.md)
   
