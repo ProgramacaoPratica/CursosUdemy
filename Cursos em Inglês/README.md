@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 14-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/24%20-%20Lista%20-%2014-09-2019.md)
+  - **Lista criada em 21-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/25%20-%20Lista%20-%2021-09-2019.md)
   
 ## Outras Listas  
+
+  - **Lista criada em 14-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/24%20-%20Lista%20-%2014-09-2019.md)
 
   - **Lista criada em 07-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/23%20-%20Lista%20-%2007-09-2019.md)
 
