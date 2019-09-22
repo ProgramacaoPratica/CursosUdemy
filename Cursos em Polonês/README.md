@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 14-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/13%20-%20Lista%20-%2014-09-2019.md)
+  - **Lista criada em 21-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/14%20-%20Lista%20-%2021-09-2019.md)
 
 ## Outras Listas
+
+  - **Lista criada em 14-09-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/13%20-%20Lista%20-%2014-09-2019.md)
 
   - **Lista criada em 31-08-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/12%20-%20Lista%20-%2031-08-2019.md)
 
