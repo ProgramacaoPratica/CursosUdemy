@@ -2,9 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 19-10-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/24%20-%20Lista%20-%2019-10-2019.md)
+  - **Lista criada em 02-11-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/25%20-%20Lista%20-%2002-11-2019.md)
  
 ## Outras Listas
+
+  - **Lista criada em 19-10-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/24%20-%20Lista%20-%2019-10-2019.md)
 
   - **Lista criada em 12-10-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/23%20-%20Lista%20-%2012-10-2019.md)
 
