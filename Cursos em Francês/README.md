@@ -2,7 +2,7 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 24-11-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/30%20-%20Lista%20-%2023-11-2019.md)
+  - **Lista criada em 23-11-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/30%20-%20Lista%20-%2023-11-2019.md)
   
 ## Outras Listas
 
