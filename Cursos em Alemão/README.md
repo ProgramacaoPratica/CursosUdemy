@@ -2,7 +2,7 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 04-12-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/36%20-%20Lista%20-%2004-01-2020.md)
+  - **Lista criada em 04-01-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/36%20-%20Lista%20-%2004-01-2020.md)
   
 ## Outras Listas
 
