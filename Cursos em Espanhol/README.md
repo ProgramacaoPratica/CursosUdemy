@@ -10,7 +10,7 @@
 
 ## Listas de 2019
 
-  - **Listas adicionadas em 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Espanhol)  
+  - **Listas adicionadas em 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Espanhol/2019)  
  
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
