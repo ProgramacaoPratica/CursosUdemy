@@ -2,10 +2,12 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 04-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/02%20-%20Lista%20-%2011-01-2020.md)
+  - **Lista criada em 18-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/03%20-%20Lista%20-%2018-01-2020.md)
   
 ## Outras Listas
 
+  - **Lista criada em 11-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/02%20-%20Lista%20-%2011-01-2020.md)
+  
   - **Lista criada em 04-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/01%20-%20Lista%20-%2004-01-2020.md)
 
 ## Listas de 2019
