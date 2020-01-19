@@ -6,7 +6,7 @@
   
 ## Outras Listas
 
-  - **Lista criada em 11-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/36%20-%20Lista%20-%2011-01-2020.m
+  - **Lista criada em 11-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/36%20-%20Lista%20-%2011-01-2020.md)
   
   - **Lista criada em 04-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Franc%C3%AAs/35%20-%20Lista%20-%2004-01-2020.md)
 
