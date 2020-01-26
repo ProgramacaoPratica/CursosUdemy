@@ -10,7 +10,7 @@
 
   - **Lista criada em 18-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/03%20-%20Lista%20-%2018-01-2020.md)
 
-  - **Lista criada em 25-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/03%20-%20Lista%20-%2025-01-2020.md)
+  - **Lista criada em 25-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/04%20-%20Lista%20-%2025-01-2020.md)
 
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
