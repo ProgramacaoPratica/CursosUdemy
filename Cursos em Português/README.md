@@ -10,9 +10,9 @@
   
   ## Outras Listas
 
-  - **Listas adicionadas em 2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/edit/master/Cursos em Português/2020)  
+  - **Listas adicionadas em 2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020)  
 
-  - **Listas adicionadas em 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/edit/master/Cursos em Português/2019)  
+  - **Listas adicionadas em 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2019)  
   
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
