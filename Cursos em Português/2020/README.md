@@ -1,6 +1,6 @@
 # Cursos de 2020
 
-**Para acessar os cursos mais recentes** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos em Português)
+**Para acessar os cursos mais recentes** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Português)
 
 ## Outras Listas
 
