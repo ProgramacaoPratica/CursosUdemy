@@ -10,6 +10,8 @@
   
   ## Outras Listas
   
+   - **Lista de 2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Polon%C3%AAs/2020)
+  
    - **Lista de 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Polon%C3%AAs/2019)
 
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
