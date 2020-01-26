@@ -10,7 +10,7 @@
 
   - **Lista criada em 18-01-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/02%20-%20Lista%20-%2018-01-2020.md)
   
-  ## Outros Anos
+  ## Listas de Outros Anos
   
    - **Lista de 2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Polon%C3%AAs/2019)
 
