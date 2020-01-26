@@ -79,6 +79,7 @@
   - **Lista criada em 22-04-2019** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/2020/Listas/03%20-%20Lista%20-%2022-04-2019.md)
 
   - **Listas criadas em 09-04-2019** - Parte 1 [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/2020/Listas/01%20-%20Lista%20-%2009-04-2019%20-%20Parte%201.md) - Parte 2 [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Ingl%C3%AAs/2020/Listas/02%20-%20Lista%20-%2009-04-2019%20-%20Parte%202.md)
+  
 Entre no grupo do Telegram para receber avisos sobre as atualizações das listas.  
 No grupo serão compartilhados cupons de desconto disponibilizados por alguns instrutores da Udemy.  
 Entre no grupo agora mesmo: [Grupo no Telegram](http://bit.ly/2UvKbVX)
