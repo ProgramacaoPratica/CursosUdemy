@@ -4,6 +4,8 @@
 
 ## Outras Listas
 
+  - **Lista criada em 23-02-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/08%20-%20Lista%20-%2023-02-2020.md)
+  
   - **Lista criada em 15-02-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/07%20-%20Lista%20-%2015-02-2020.md)
 
   - **Lista criada em 08-02-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/06%20-%20Lista%20-%2008-02-2020.md)
