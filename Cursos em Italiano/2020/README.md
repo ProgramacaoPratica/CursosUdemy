@@ -5,6 +5,8 @@
 
 ## Outras Listas
 
+  - **Lista criada em 04-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/2020/Listas/09%20-%20Lista%20-%2004-04-2020.md)
+  
   - **Lista criada em 28-03-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/2020/Listas/08%20-%20Lista%20-%2028-03-2020.md)
   
   - **Lista criada em 14-03-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Italiano/2020/Listas/07%20-%20Lista%20-%2014-03-2020.md)
