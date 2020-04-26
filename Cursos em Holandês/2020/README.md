@@ -5,7 +5,7 @@
 
 ## Outras Listas
 
-  - **Lista criada em 04-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/2020/Listas/05%20-%20Lista%20-%2025-04-2020.md)
+  - **Lista criada em 25-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/2020/Listas/05%20-%20Lista%20-%2025-04-2020.md)
   
   - **Lista criada em 04-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Holand%C3%AAs/2020/Listas/04%20-%20Lista%20-%2004-04-2020.md)
   
