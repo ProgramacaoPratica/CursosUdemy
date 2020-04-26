@@ -4,6 +4,8 @@
 
 ## Outras Listas
 
+  - **Lista criada em 18-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/09%20-%20Lista%20-%2018-04-2020.md)
+
   - **Lista criada em 11-04-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/08%20-%20Lista%20-%2011-04-2020.md)
   
   - **Lista criada em 21-03-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/07%20-%20Lista%20-%2021-03-2020.md)
