@@ -2,11 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 30-05-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/22%20-%20Lista%20-%2030-05-2020.md)
+  - **Lista criada em 06-06-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/23%20-%20Lista%20-%2006-06-2020.md)
   
 ## Lista Anterior
 
-  - **Lista criada em 23-05-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/21%20-%20Lista%20-%2023-05-2020.md)
+  - **Lista criada em 30-05-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/2020/Listas/22%20-%20Lista%20-%2030-05-2020.md)
   
   ## Outras Listas
 
