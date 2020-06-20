@@ -1,7 +1,7 @@
 # Listas de Cursos em Alemão
 
 ## Lista Mais Recente
-
+ 
   - **Lista criada em 13-06-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/23%20-%20Lista%20-%2013-06-2020.md)
   
 ## Lista Anterior
