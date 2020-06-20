@@ -2,11 +2,11 @@
 
 ## Lista Mais Recente
 
-  - **Lista criada em 13-06-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/13%20-%20Lista%20-%2013-06-2020.md)
+  - **Lista criada em 20-06-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/14%20-%20Lista%20-%2020-06-2020.md)
 
 ## Lista Anterior
   
-  - **Lista criada em 30-05-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/12%20-%20Lista%20-%2030-05-2020.md)
+  - **Lista criada em 13-06-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Polon%C3%AAs/2020/Listas/13%20-%20Lista%20-%2013-06-2020.md)
   
   ## Outras Listas
   
