@@ -5,6 +5,8 @@
 
 ## Outras Listas
 
+  - **Lista criada em 25-07-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/2020/Listas/30%20-%20Lista%20-%2025-07-2020.md)
+  
   - **Lista criada em 18-07-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/2020/Listas/29%20-%20Lista%20-%2018-07-2020.md)
   
   - **Lista criada em 11-07-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Espanhol/2020/Listas/28%20-%20Lista%20-%2011-07-2020.md)
