@@ -2,12 +2,11 @@
 
 ## Lista Mais Recente
  
-   - **Lista criada em 05-09-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/34%20-%20Lista%20-%2005-09-2020.md)
-
+   - **Lista criada em 13-09-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/35%20-%20Lista%20-%2012-09-2020.md)
   
 ## Lista Anterior
 
-   - **Lista criada em 31-08-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/33%20-%20Lista%20-%2031-08-2020.md)
+   - **Lista criada em 05-09-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/34%20-%20Lista%20-%2005-09-2020.md)
   
 ## Outras Listas
 
