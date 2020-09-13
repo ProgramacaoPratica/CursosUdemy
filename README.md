@@ -1,4 +1,4 @@
-# Listas de Cursos da Udemy [Atualizado em 05-09-2020] 
+# Listas de Cursos da Udemy [Atualizado em 12-09-2020] 
 
 
 ![Cursos Udemy](https://programacaopratica.com.br/wp-content/uploads/2019/04/imagem_git.jpg)
