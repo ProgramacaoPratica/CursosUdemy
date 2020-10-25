@@ -4,6 +4,8 @@
 
 ## Outras Listas
 
+  - **Lista criada em 24-10-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/41%20-%20Lista%20-%2024-10-2020.md)
+  
   - **Lista criada em 17-10-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/40%20-%20Lista%20-%2017-10-2020.md)
   
   - **Lista criada em 11-10-2020** - [Acessar Aqui](https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Alem%C3%A3o/2020/Listas/39%20-%20Lista%20-%2011-10-2020.md)
